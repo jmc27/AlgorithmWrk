@@ -1,0 +1,54 @@
+8
+
+dir
+228
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a/trunk/2010-spring/www/pa3/src/org/junit/experimental/theories/suppliers
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a
+
+
+
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6ed93727-19c9-46db-92e4-df1aa8b37b7e
+
+TestedOn.class
+file
+
+
+
+
+2010-05-05T00:05:46.000000Z
+ae499c64282a41906d0f335c9af65a9b
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+has-props
+
+TestedOnSupplier.class
+file
+
+
+
+
+2010-05-05T00:05:46.000000Z
+1352acf6d4da787f96fad6dc30ee8463
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+has-props
+

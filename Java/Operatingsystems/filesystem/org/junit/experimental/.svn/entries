@@ -1,0 +1,82 @@
+8
+
+dir
+228
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a/trunk/2010-spring/www/pa3/src/org/junit/experimental
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a
+
+
+
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6ed93727-19c9-46db-92e4-df1aa8b37b7e
+
+ParallelComputer.class
+file
+
+
+
+
+2010-05-05T00:05:46.000000Z
+2bcffa3f95315ef2b6730c77873f16b7
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+has-props
+
+results
+dir
+
+theories
+dir
+
+ParallelComputer$1.class
+file
+
+
+
+
+2010-05-05T00:05:46.000000Z
+b211fc42a985ff393a7a63133183a386
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+has-props
+
+categories
+dir
+
+max
+dir
+
+ParallelComputer$1$1.class
+file
+
+
+
+
+2010-05-05T00:05:46.000000Z
+fc91a29cf86e954eaaa2dc9d84422c7c
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+has-props
+
+runners
+dir
+

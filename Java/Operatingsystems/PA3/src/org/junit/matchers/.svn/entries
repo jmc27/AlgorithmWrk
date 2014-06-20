@@ -1,0 +1,41 @@
+8
+
+dir
+228
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a/trunk/2010-spring/www/pa3/src/org/junit/matchers
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a
+
+
+
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6ed93727-19c9-46db-92e4-df1aa8b37b7e
+
+JUnitMatchers.class
+file
+
+
+
+
+2010-05-05T00:05:46.000000Z
+934038836ee7e33d78037c289054d3c3
+2010-04-20T10:10:48.090652Z
+190
+rshaull
+has-props
+

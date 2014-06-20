@@ -1,0 +1,40 @@
+8
+
+dir
+228
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a/trunk/2010-spring/www/pa3/src/junit
+svn+ssh://liuba@erytheia.cs.brandeis.edu/home/l/svn/cs31a
+
+
+
+2010-04-21T03:18:20.832350Z
+217
+rshaull
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6ed93727-19c9-46db-92e4-df1aa8b37b7e
+
+extensions
+dir
+
+textui
+dir
+
+runner
+dir
+
+framework
+dir
+
